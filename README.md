@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Factory Machine Monitoring
 
 A DBMS course project for monitoring factory machines and coordinating maintenance work between administrators, workers, and engineers.
@@ -167,6 +166,3 @@ Engineer: engineer@factory.com / engineer123
 - Passwords are currently stored as plain text for course/demo use. Use password hashing before using this in production.
 - Database credentials are configured directly in `db.js`. Use environment variables for safer deployments.
 - No automated tests are configured yet.
-=======
-
->>>>>>> 0f4fcef4f2979b9f12d51db44287a898d0913b3a
